@@ -1,0 +1,136 @@
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.suvysoft.just10moves.MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10sp"
+        android:textSize="40sp"
+        android:layout_below="@+id/moves"
+        android:gravity="center"
+        android:textColor="#000"
+        android:text="TEXT" />
+
+    <TextView
+        android:id="@+id/moves"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MOVES"
+        android:padding="10sp"
+        android:textSize="20sp"
+        android:textColor="#ce0609"
+        android:layout_alignParentRight="true"/>
+    <TextView
+        android:id="@+id/resText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:layout_marginTop="-70sp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/higher"
+        android:padding="10sp"
+        android:textColor="#000"
+        android:textSize="25sp"/>
+
+    <Button
+        android:id="@+id/higher"
+        android:background="@drawable/higher"
+        android:text="HIGHER"
+        android:textSize="25sp"
+        android:textColor="#fff"
+        android:padding="15sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50sp"
+        android:layout_marginRight="50sp"
+       android:layout_centerHorizontal="true"
+        android:layout_marginTop="60sp"
+        android:layout_below="@+id/textView" />
+
+    <Button
+        android:id="@+id/dis1"
+        android:background="@drawable/disable"
+        android:text="HIGHER"
+        android:textSize="25sp"
+        android:textColor="#fff"
+        android:padding="15sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50sp"
+        android:layout_marginRight="50sp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="60sp"
+        android:layout_below="@+id/textView" />
+
+    <Button
+        android:id="@+id/yes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50sp"
+        android:layout_marginRight="50sp"
+        android:layout_below="@+id/higher"
+        android:layout_marginTop="30dp"
+        android:textSize="25sp"
+        android:padding="15sp"
+        android:textColor="#fff"
+        android:background="@drawable/button"
+        android:text="YES" />
+
+    <Button
+        android:id="@+id/lower"
+        android:background="@drawable/lower"
+        android:text="LOWER"
+        android:textSize="25sp"
+        android:textColor="#fff"
+        android:padding="15sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50sp"
+        android:layout_marginRight="50sp"
+        android:layout_below="@+id/yes"
+        android:layout_marginTop="30dp"/>
+
+    <Button
+        android:id="@+id/dis2"
+        android:background="@drawable/disable"
+        android:text="LOWER"
+        android:textSize="25sp"
+        android:textColor="#fff"
+        android:padding="15sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50sp"
+        android:layout_marginRight="50sp"
+        android:layout_below="@+id/yes"
+        android:layout_marginTop="30dp"/>
+
+    <Button
+        android:id="@+id/ok"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/yes"
+        android:layout_marginLeft="40sp"
+        android:textSize="25sp"
+        android:padding="15sp"
+        android:textColor="#fff"
+        android:layout_marginRight="40sp"
+        android:background="@drawable/button"
+        android:text="START" />
+
+    <!-- view for AdMob Banner Ad -->
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_ad_unit_id" />
+
+</RelativeLayout>

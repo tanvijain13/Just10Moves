@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/dc/.android/build-cache/085dcc58a14e515b85ecc019278b4076520a9969/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="/Users/dc/Desktop/Programs/Android Projects/Just10Moves/app/build/intermediates/pre-dexed/release/classes_6a53c79a6f72ad40a8e2b162acb7fe2a9baac311.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dc/.android/build-cache/c15ae60087d6a360bc6379d16c32cd6070e90943/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/dc/Desktop/Programs/Android Projects/Just10Moves/app/build/intermediates/pre-dexed/release/classes_b6de1d33c0ee5e92f1362a7753b4de5e7059c1b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dc/.android/build-cache/14e7de38f792b82c736a9e798b452a476e84ad29/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="/Users/dc/Desktop/Programs/Android Projects/Just10Moves/app/build/intermediates/pre-dexed/release/classes_d4a5a8967cdfc8aeba3bfadfe5429e973d33d65d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dc/.android/build-cache/7eda654b5a55bdd95d5dc239d4806ef02d2af86b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/dc/Desktop/Programs/Android Projects/Just10Moves/app/build/intermediates/pre-dexed/release/classes_fe26f950a8a05009979c6965faf9a521319b8ba5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dc/.android/build-cache/12b374f03dd407e0157e9de8b39152d005d26386/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/dc/Desktop/Programs/Android Projects/Just10Moves/app/build/intermediates/pre-dexed/release/classes_26b9ee1cae3273071048f371a751e8de25d7abb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dc/.android/build-cache/c92072a60d1f6f246dcba89139d707349909c16a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="/Users/dc/Desktop/Programs/Android Projects/Just10Moves/app/build/intermediates/pre-dexed/release/classes_ca6c80ceb35d5453d0f3b75c2e174488f5c27dc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dc/.android/build-cache/767f11bfa8d3f5d79c24e0dd4f79448087a604ec/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/dc/Desktop/Programs/Android Projects/Just10Moves/app/build/intermediates/pre-dexed/release/classes_440a81520b2c57789668158ea462dacc9d08c6a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dc/.android/build-cache/154227d8d5dd05ec3c5315cf1aac0ea1cd306794/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="/Users/dc/Desktop/Programs/Android Projects/Just10Moves/app/build/intermediates/pre-dexed/release/classes_24be9dc6d7dd91af5d7231f9c0cc4283619b6bc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dc/.android/build-cache/b5b7275e3c340fcd7686a05706ca7cd1bfa89598/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/dc/Desktop/Programs/Android Projects/Just10Moves/app/build/intermediates/pre-dexed/release/classes_c7cba2583b0529939e6320f8abd6816af3b82c29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dc/.android/build-cache/28206226610bebc5fd1c645e6e5343fc08f27868/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/dc/Desktop/Programs/Android Projects/Just10Moves/app/build/intermediates/pre-dexed/release/classes_731c43d9fa0f3dc624731f7cb11c4d83f5a873e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dc/.android/build-cache/f1a01cef36013a72a445b654c2142726431f9228/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/dc/Desktop/Programs/Android Projects/Just10Moves/app/build/intermediates/pre-dexed/release/classes_b51f22305f7ecc37058669b7c1ab83ad23f8c65e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dc/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/dc/Desktop/Programs/Android Projects/Just10Moves/app/build/intermediates/pre-dexed/release/support-annotations-25.2.0_5a0763f5a01f0f232f34f16451e7a4ed6179f7f2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dc/Desktop/Programs/Android Projects/Just10Moves/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/dc/Desktop/Programs/Android Projects/Just10Moves/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c3714a41a5db0a107467f80c9c2a6b2e663a67b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dc/.android/build-cache/7963c9a14b691f3f63daada86b964f38b6f256f4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/dc/Desktop/Programs/Android Projects/Just10Moves/app/build/intermediates/pre-dexed/release/classes_c3d06e6db8a280e5a0b1e8c4793e2570ae9e3d51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dc/.android/build-cache/953a67b59415b94c2eb6e58ec2751dfc1bd4bf70/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/dc/Desktop/Programs/Android Projects/Just10Moves/app/build/intermediates/pre-dexed/release/classes_127aef2233a68d4de31bac1347a5d6ccf96e4290.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dc/.android/build-cache/1ec3514fd1e464cdb9ad3d0d0df4fff7ba68d7bf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/dc/Desktop/Programs/Android Projects/Just10Moves/app/build/intermediates/pre-dexed/release/classes_c332c5203abb081b679b31314741fd1fb7d5b27c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dc/Desktop/Programs/Android Projects/Just10Moves/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="be0efea57f65205e3cf17696854b0aa6d7e86f9e">
+        <dex dex="/Users/dc/Desktop/Programs/Android Projects/Just10Moves/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_900a8d4f209358c88ca0c1c05e57fb6a259c91ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dc/.android/build-cache/b4bc9252cbcdce7663850598f041487946c4283f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/dc/Desktop/Programs/Android Projects/Just10Moves/app/build/intermediates/pre-dexed/release/classes_426ec14bbea654ed3c68b419362de21f7b0e3b1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dc/.android/build-cache/1536fe3b7fadf4767be0403b646753ae91ab2aa9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/dc/Desktop/Programs/Android Projects/Just10Moves/app/build/intermediates/pre-dexed/release/classes_e2a55c3691a31306691fec5b9d84613fce35c64c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dc/.android/build-cache/8605ea1df59bf333b3a4ab2d5313b9bac022b434/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="/Users/dc/Desktop/Programs/Android Projects/Just10Moves/app/build/intermediates/pre-dexed/release/classes_beaa3bebda0c0f50ecfe965a9cca6e176f35f2cd.jar" />
+    </item>
+
+</items>
